@@ -8,9 +8,6 @@ while True:
     if operator == '+':
         answer = first_number + second_number
         print(answer)
-    if operator == '+':
-        answer = first_number + second_number
-        print(answer)
     if operator == '-':
         answer = first_number - second_number
         print(answer)
